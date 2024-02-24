@@ -1,0 +1,27 @@
+{
+  "Type": "uefnskin",
+  "ID": "MARYJANENJDSCNSJCSCSAACI",
+  "Name": "Mary Jane Watson",
+  "Description": "By EDxLA",
+  "Rarity": "Marvel",
+  "Icon": "https://fortnite-api.com/images/cosmetics/br/cid_a_358_athena_commando_f_lurk/icon.png",
+  "Skin": {
+    "Mesh": "/Characters/MaryJane/MaryJane.MaryJane",
+    "Skeleton": "/Game/Characters/Player/Female/Medium/Base/SK_M_Female_Base_Skeleton.SK_M_Female_Base_Skeleton",
+    "Animation": "/BRCosmetics/Characters/Player/Female/Medium/Bodies/F_MED_Lurk/Meshes/Parts/F_MED_Lurk_FaceAcc_AnimBP.F_MED_Lurk_FaceAcc_AnimBP_C",
+    "PartmodifierBlueprint": "",
+    "IdleEffectNiagara": "",
+	"HIDPath": "FortniteGame/Plugins/GameFeatures/BRCosmetics/Content/Athena/Heroes/HID_A_358_Athena_Commando_F_Lurk",
+  },
+  "Files": {
+    "pak": "https://github.com/EDsLA/Plugin/raw/main/plugin.pak",
+    "sig": "https://github.com/EDsLA/Plugin/raw/main/plugin.sig",
+    "ucas": "https://github.com/EDsLA/Plugin/raw/main/plugin.ucas",
+    "utoc": "https://github.com/EDsLA/Plugin/raw/main/plugin.utoc"
+  },
+  "Materials": [
+    "/BRCosmetics/Characters/Player/Female/Medium/Bodies/F_MED_Lurk/Materials/F_MED_Lurk_Body.F_MED_Lurk_Body",
+    "/BRCosmetics/Characters/Player/Female/Medium/Bodies/F_MED_Lurk/Materials/F_MED_Lurk_Head.F_MED_Lurk_Head",
+    "/BRCosmetics/Characters/Player/Female/Medium/Bodies/F_MED_Lurk/Materials/F_MED_Lurk_Hair.F_MED_Lurk_Hair"
+  ]
+}
