@@ -1,0 +1,26 @@
+{
+  "Type": "uefnskin",
+  "ID": "MPN7oUDXbQDRMhYVf7XJBgqYqsIXecCI",
+  "Name": "Ravina",
+  "Description": "By EDxLA",
+  "Rarity": "Rare",
+  "Icon": "https://fortnite-api.com/images/cosmetics/br/cid_903_athena_commando_f_frankie/icon.png",
+  "Skin": {
+    "Mesh": "/Characters/Ravina/Ravina.Ravina",
+    "Skeleton": "/Game/Characters/Player/Female/Medium/Base/SK_M_Female_Base_Skeleton.SK_M_Female_Base_Skeleton",
+    "Animation": "/BRCosmetics/Characters/Player/Female/Medium/Bodies/F_MED_Frankie/Meshes/Parts/F_MED_Frankie_AnimBP.F_MED_Frankie_AnimBP_C",
+    "PartmodifierBlueprint": "",
+    "IdleEffectNiagara": ""
+  },
+  "Files": {
+    "pak": "https://github.com/EDsLA/Plugin/raw/main/plugin.pak",
+    "sig": "https://github.com/EDsLA/Plugin/raw/main/plugin.sig",
+    "ucas": "https://github.com/EDsLA/Plugin/raw/main/plugin.ucas",
+    "utoc": "https://github.com/EDsLA/Plugin/raw/main/plugin.utoc"
+  },
+  "Materials": [
+    "/BRCosmetics/Characters/Player/Female/Medium/Bodies/F_MED_Frankie/Materials/F_MED_Frankie_Body.F_MED_Frankie_Body",
+    "/BRCosmetics/Characters/Player/Female/Medium/Bodies/F_MED_Frankie/Materials/F_MED_Frankie_FaceAcc.F_MED_Frankie_FaceAcc",
+    "/BRCosmetics/Characters/Player/Female/Medium/Bodies/F_MED_Frankie/Materials/MI_F_MED_Handler_Frankie_Head.MI_F_MED_Handler_Frankie_Head"
+  ]
+}

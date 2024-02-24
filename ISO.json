@@ -1,0 +1,29 @@
+{
+  "Type": "uefnskin",
+  "ID": "4nzDTEqj7OrkcY7ZZ8ITpJZoKKyhifLD",
+  "Name": "ISO",
+  "Description": "By EDxLA",
+  "Rarity": "Epic",
+  "Icon": "https://fortnite-api.com/images/cosmetics/br/cid_732_athena_commando_f_stars/icon.png",
+  "Skin": {
+    "Mesh": "/Characters/ISO/ISO.ISO",
+    "Skeleton": "/Game/Characters/Player/Female/Medium/Base/SK_M_Female_Base_Skeleton.SK_M_Female_Base_Skeleton",
+    "Animation": "/Game/Characters/Player/Common/Head_Empty/Head_Empty_Export_Skeleton_AnimBP.Head_Empty_Export_Skeleton_AnimBP_C",
+    "PartmodifierBlueprint": "/BRCosmetics/Athena/Cosmetics/Blueprints/Part_Modifiers/B_Athena_PartModifier_Stars.B_Athena_PartModifier_Stars_C",
+    "IdleEffectNiagara": "/BRCosmetics/Characters/Player/Female/Medium/Bodies/F_MED_Stars/FX/NS_Stars.NS_Stars",
+	"HIDPath": "FortniteGame/Plugins/GameFeatures/BRCosmetics/Content/Athena/Heroes/HID_732_Athena_Commando_F_Stars"
+  },
+  "Files": {
+    "pak": "https://github.com/EDsLA/Plugin/raw/main/plugin.pak",
+    "sig": "https://github.com/EDsLA/Plugin/raw/main/plugin.sig",
+    "ucas": "https://github.com/EDsLA/Plugin/raw/main/plugin.ucas",
+    "utoc": "https://github.com/EDsLA/Plugin/raw/main/plugin.utoc"
+  },
+  "Materials": [
+    "/BRCosmetics/Characters/Player/Female/Medium/Bodies/F_MED_Stars/Materials/MI_F_MED_Stars_black.MI_F_MED_Stars_black",
+    "/BRCosmetics/Characters/Player/Female/Medium/Bodies/F_MED_Stars/Materials/MI_F_MED_Stars_lines.MI_F_MED_Stars_lines",
+    "/BRCosmetics/Characters/Player/Female/Medium/Bodies/F_MED_Stars/Materials/MI_F_MED_Stars_stars.MI_F_MED_Stars_stars",
+    "/BRCosmetics/Characters/Player/Female/Medium/Bodies/F_MED_Stars/Materials/MI_F_MED_Stars_blackOuter.MI_F_MED_Stars_blackOuter",
+    "/Game/Characters/Player/Female/Medium/Heads/F_Med_Head_01/Materials/F_MED_Commando_Hair_TV11.F_MED_Commando_Hair_TV11"
+  ]
+}

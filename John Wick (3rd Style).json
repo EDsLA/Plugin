@@ -1,0 +1,27 @@
+{
+  "Type": "uefnskin",
+  "ID": "vtjMvLO2muOVMtTYTL6R8wtZzHzRg2NS",
+  "Name": "John Wick (3rd Style)",
+  "Description": "By EDxLA",
+  "Rarity": "Legendary",
+  "Icon": "https://fortnite-api.com/images/cosmetics/br/cid_416_athena_commando_m_assassinsuit/icon.png",
+  "Skin": {
+    "Mesh": "/Characters/JohnWick3/JohnWick3.JohnWick3",
+    "Skeleton": "/Game/Characters/Player/Male/Medium/Base/SK_M_MALE_Base_Skeleton.SK_M_MALE_Base_Skeleton",
+    "Animation": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_TracePaper/Meshes/Parts/M_MED_TracePaper_FaceAcc_AnimBP.M_MED_TracePaper_FaceAcc_AnimBP_C",
+    "PartmodifierBlueprint": "",
+    "IdleEffectNiagara": ""
+  },
+  "Files": {
+    "pak": "https://github.com/EDsLA/Plugin/raw/main/plugin.pak",
+    "sig": "https://github.com/EDsLA/Plugin/raw/main/plugin.sig",
+    "ucas": "https://github.com/EDsLA/Plugin/raw/main/plugin.ucas",
+    "utoc": "https://github.com/EDsLA/Plugin/raw/main/plugin.utoc"
+  },
+  "Materials": [
+    "/Game/Characters/Player/Male/Medium/Bodies/M_MED_TracePaper/Materials/MI_TracePaper_Body.MI_TracePaper_Body",
+    "/Game/Characters/Player/Male/Medium/Bodies/M_MED_TracePaper/Materials/MI_TracePaper_Head.MI_TracePaper_Head",
+    "/Game/Characters/Player/Male/Medium/Bodies/M_MED_TracePaper/Materials/MI_TracePaper_Eyes.MI_TracePaper_Eyes",
+    "/Game/Characters/Player/Male/Medium/Bodies/M_MED_TracePaper/Materials/MI_TracePaper_FaceAcc.MI_TracePaper_FaceAcc"
+  ]
+}
