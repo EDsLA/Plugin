@@ -1,0 +1,29 @@
+{
+  "Type": "uefnskin",
+  "ID": "dPJJACACACRqzyzXdNvRvRUED7mchX20EOd",
+  "Name": "PJ",
+  "Description": "By EDxLA",
+  "Rarity": "Rare",
+  "Icon": "https://fortnite-api.com/images/cosmetics/br/cid_753_athena_commando_f_hostile/icon.png",
+  "Skin": {
+    "Mesh": "/Characters/PJ/PJ.PJ",
+    "Skeleton": "/Game/Characters/Player/Female/Medium/Base/SK_M_Female_Base_Skeleton.SK_M_Female_Base_Skeleton",
+    "Animation": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_WaywardRebel/Meshes/Parts/F_MED_WaywardRebel_FaceAcc_AnimBP.F_MED_WaywardRebel_FaceAcc_AnimBP_C",
+    "PartmodifierBlueprint": "/Game/Athena/Cosmetics/Blueprints/Part_Modifiers/B_Athena_PartModifier_Generic_WaywardRebel.B_Athena_PartModifier_Generic_WaywardRebel_C",
+    "IdleEffectNiagara": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_WaywardRebel/FX/NS_WaywardRebel_Skin_Trail.NS_WaywardRebel_Skin_Trail",
+	"HIDPath": "FortniteGame/Content/Athena/Heroes/Hero_WaywardRebel",
+	"IdleFXSocket": "dyn_purse_03_l"
+  },
+  "Files": {
+    "pak": "https://github.com/EDsLA/Plugin/raw/main/plugin.pak",
+    "sig": "https://github.com/EDsLA/Plugin/raw/main/plugin.sig",
+    "ucas": "https://github.com/EDsLA/Plugin/raw/main/plugin.ucas",
+    "utoc": "https://github.com/EDsLA/Plugin/raw/main/plugin.utoc"
+  },
+  "Materials": [
+    "/Game/Characters/Player/Female/Medium/Bodies/F_MED_WaywardRebel/Materials/MI_WaywardRebel_Body.MI_WaywardRebel_Body",
+    "/Game/Characters/Player/Female/Medium/Bodies/F_MED_WaywardRebel/Materials/MI_WaywardRebel_Head.MI_WaywardRebel_Head",
+	"/Game/Characters/Player/Female/Medium/Bodies/F_MED_WaywardRebel/Materials/MI_WaywardRebel_Eyes.MI_WaywardRebel_Eyes",
+	"/Game/Characters/Player/Female/Medium/Bodies/F_MED_WaywardRebel/Materials/MI_WaywardRebel_FaceAcc.MI_WaywardRebel_FaceAcc"
+  ]
+}
