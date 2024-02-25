@@ -1,0 +1,26 @@
+{
+  "Type": "uefnskin",
+  "ID": "dLOOKBOTwRqzyzXdNvRvD7mchX20EOd",
+  "Name": "Lok-bot",
+  "Description": "By EDxLA",
+  "Rarity": "Rare",
+  "Icon": "https://fortnite-api.com/images/cosmetics/br/cid_a_102_athena_commando_m_assemblel/icon.png",
+  "Skin": {
+    "Mesh": "/Characters/LokBot/LokBot.LokBot",
+    "Skeleton": "/Game/Characters/Player/Male/Medium/Base/SK_M_MALE_Base_Skeleton.SK_M_MALE_Base_Skeleton",
+    "Animation": "/BRCosmetics/Characters/Player/Male/Medium/Bodies/M_MED_Assemble_L/Meshes/M_MED_Assemble_L_AnimBlueprint.M_MED_Assemble_L_AnimBlueprint_C",
+    "PartmodifierBlueprint": "",
+    "IdleEffectNiagara": "",
+	"HIDPath": "FortniteGame/Plugins/GameFeatures/BRCosmetics/Content/Athena/Heroes/HID_A_102_Athena_Commando_M_AssembleL"
+  },
+  "Files": {
+    "pak": "https://github.com/EDsLA/Plugin/raw/main/plugin.pak",
+    "sig": "https://github.com/EDsLA/Plugin/raw/main/plugin.sig",
+    "ucas": "https://github.com/EDsLA/Plugin/raw/main/plugin.ucas",
+    "utoc": "https://github.com/EDsLA/Plugin/raw/main/plugin.utoc"
+  },
+  "Materials": [
+    "/BRCosmetics/Characters/Player/Male/Medium/Bodies/M_MED_Assemble_L/Materials/M_MED_Assemble_L_Body.M_MED_Assemble_L_Body",
+    "/BRCosmetics/Characters/Player/Male/Medium/Bodies/M_MED_Assemble_L/Materials/M_MED_Assemble_L_Head.M_MED_Assemble_L_Head"
+  ]
+}
