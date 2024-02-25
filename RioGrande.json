@@ -1,0 +1,28 @@
+{
+  "Type": "uefnskin",
+  "ID": "dRioGrandeRqzyzXdRioGrandemchX20EOd",
+  "Name": "Rio Grande",
+  "Description": "By EDxLA",
+  "Rarity": "Rare",
+  "Icon": "https://fortnite-api.com/images/cosmetics/br/cid_497_athena_commando_f_wildwest/icon.png",
+  "Skin": {
+    "Mesh": "/Characters/RioGrande/RioGrande.RioGrande",
+    "Skeleton": "/Game/Characters/Player/Female/Medium/Base/SK_M_Female_Base_Skeleton.SK_M_Female_Base_Skeleton",
+    "Animation": "/Game/Characters/Player/Female/Medium/Heads/F_MED_ASN_Starfish_Head_01/Meshes/F_MED_ASN_Starfish_Head_01_AnimBP_Child.F_MED_ASN_Starfish_Head_01_AnimBP_Child_C",
+    "PartmodifierBlueprint": "",
+    "IdleEffectNiagara": "",
+	"HIDPath": "FortniteGame/Plugins/GameFeatures/BRCosmetics/Content/Athena/Heroes/HID_497_Athena_Commando_F_WildWest"
+  },
+  "Files": {
+    "pak": "https://github.com/EDsLA/Plugin/raw/main/plugin.pak",
+    "sig": "https://github.com/EDsLA/Plugin/raw/main/plugin.sig",
+    "ucas": "https://github.com/EDsLA/Plugin/raw/main/plugin.ucas",
+    "utoc": "https://github.com/EDsLA/Plugin/raw/main/plugin.utoc"
+  },
+  "Materials": [
+    "/BRCosmetics/Characters/Player/Female/Medium/Bodies/F_Med_Soldier_01/Skins/TV_24/Materials/F_MED_Commando_Body_TV24.F_MED_Commando_Body_TV24",
+    "/Game/Characters/Player/Female/Medium/Heads/F_MED_ASN_Starfish_Head_01/Materials/F_MED_ASN_Starfish_Head_01_Hair.F_MED_ASN_Starfish_Head_01_Hair",
+	"/Game/Characters/Player/Female/Medium/Heads/F_MED_ASN_Starfish_Head_01/Materials/F_MED_ASN_Starfish_Head_01.F_MED_ASN_Starfish_Head_01",
+	"/Game/Accessories/Hats/Materials/Female_Commando_09.Female_Commando_09"
+  ]
+}
