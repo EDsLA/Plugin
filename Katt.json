@@ -1,0 +1,29 @@
+{
+  "Type": "uefnskin",
+  "ID": "MPN7oNMKKMSEEVhYVfHKATTTSSSF7XJBgqYqsIXecCI",
+  "Name": "Katt",
+  "Description": "By EDxLA",
+  "Rarity": "Epic",
+  "Icon": "https://fortnite-api.com/images/cosmetics/br/character_spacefeline/icon.png",
+  "Skin": {
+    "Mesh": "/Characters/Katt/Katt.Katt",
+    "Skeleton": "/Game/Characters/Player/Female/Large/Base/SK_L_Female_Base_Skeleton.SK_L_Female_Base_Skeleton",
+    "Animation": "/Game/Characters/Player/Female/Large/Bodies/F_LRG_SpaceFeline/Meshes/Parts/F_LRG_SpaceFeline_FaceAcc_AnimBP.F_LRG_SpaceFeline_FaceAcc_AnimBP_C",
+    "PartmodifierBlueprint": "",
+    "IdleEffectNiagara": "",
+	"HIDPath": "FortniteGame/Content/Athena/Heroes/Hero_SpaceFeline"
+  },
+  "Files": {
+    "pak": "https://github.com/EDsLA/Plugin/raw/main/plugin.pak",
+    "sig": "https://github.com/EDsLA/Plugin/raw/main/plugin.sig",
+    "ucas": "https://github.com/EDsLA/Plugin/raw/main/plugin.ucas",
+    "utoc": "https://github.com/EDsLA/Plugin/raw/main/plugin.utoc"
+  },
+  "Materials": [
+    "/Game/Characters/Player/Female/Large/Bodies/F_LRG_SpaceFeline/Materials/MI_SpaceFeline_Body.MI_SpaceFeline_Body",
+	"None",
+    "/Game/Characters/Player/Female/Large/Bodies/F_LRG_SpaceFeline/Materials/MI_SpaceFeline_FaceAcc.MI_SpaceFeline_FaceAcc",
+    "/Game/Characters/Player/Female/Large/Bodies/F_LRG_SpaceFeline/Materials/MI_SpaceFeline_Glass.MI_SpaceFeline_Glass",
+	"/Game/Characters/Player/Female/Large/Bodies/F_LRG_SpaceFeline/Materials/MI_SpaceFeline_FaceAcc_Cat_Flipbook01.MI_SpaceFeline_FaceAcc_Cat_Flipbook01",
+  ]
+}
