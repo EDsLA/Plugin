@@ -1,0 +1,29 @@
+{
+  "Type": "uefnskin",
+  "ID": "dRuLOOSERFRUITsaED7mchX20EOd",
+  "Name": "Loserfruit",
+  "Description": "By EDxLA",
+  "Rarity": "Icon",
+  "Icon": "https://fortnite-api.com/images/cosmetics/br/cid_764_athena_commando_f_loofah/icon.png",
+  "Skin": {
+    "Mesh": "/Characters/Loserfruit/Loserfruit.Loserfruit",
+    "Skeleton": "/Game/Characters/Player/Female/Medium/Base/SK_M_Female_Base_Skeleton.SK_M_Female_Base_Skeleton",
+    "Animation": "/BRCosmetics/Characters/Player/Female/Medium/Bodies/F_MED_Loofah/Meshes/Parts/F_MED_Loofah_FaceAcc_AnimBP.F_MED_Loofah_FaceAcc_AnimBP_C",
+    "PartmodifierBlueprint": "/Game/Athena/Cosmetics/Blueprints/B_Athena_PartModifier_Generic.B_Athena_PartModifier_Generic_C",
+    "IdleEffectNiagara": "/BRCosmetics/Characters/Player/Female/Medium/Bodies/F_MED_Loofah/Effects/P_Loofah.P_Loofah",
+	"HIDPath": "FortniteGame/Plugins/GameFeatures/BRCosmetics/Content/Athena/Heroes/HID_764_Athena_Commando_F_Loofah",
+	"IdleFXSocket": "root"
+  },
+  "Files": {
+    "pak": "https://github.com/EDsLA/Plugin/raw/main/plugin.pak",
+    "sig": "https://github.com/EDsLA/Plugin/raw/main/plugin.sig",
+    "ucas": "https://github.com/EDsLA/Plugin/raw/main/plugin.ucas",
+    "utoc": "https://github.com/EDsLA/Plugin/raw/main/plugin.utoc"
+  },
+  "Materials": [
+    "/BRCosmetics/Characters/Player/Female/Medium/Bodies/F_MED_Loofah/Materials/F_MED_Loofah_Body.F_MED_Loofah_Body",
+    "/Game/Characters/Player/Female/Medium/Heads/F_MED_Loofah_Head/Materials/F_MED_Loofah_Head.F_MED_Loofah_Head",
+	"/BRCosmetics/Characters/Player/Female/Medium/Bodies/F_MED_Loofah/Materials/F_MED_Loofah_FaceAcc.F_MED_Loofah_FaceAcc",
+	"/BRCosmetics/Characters/Player/Female/Medium/Bodies/F_MED_Loofah/Materials/F_MED_Loofah_Hair.F_MED_Loofah_Hair"
+  ]
+}

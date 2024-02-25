@@ -1,0 +1,29 @@
+{
+  "Type": "uefnskin",
+  "ID": "dRuewRqzyzXdNvRvRUED7mchX20EOd",
+  "Name": "Rue",
+  "Description": "By EDxLA",
+  "Rarity": "Rare",
+  "Icon": "https://fortnite-api.com/images/cosmetics/br/cid_753_athena_commando_f_hostile/icon.png",
+  "Skin": {
+    "Mesh": "/Characters/Rue/Rue.Rue",
+    "Skeleton": "/Game/Characters/Player/Female/Medium/Base/SK_M_Female_Base_Skeleton.SK_M_Female_Base_Skeleton",
+    "Animation": "/BRCosmetics/Characters/Player/Female/Medium/Bodies/F_MED_Hostile/Meshes/F_MED_Hostile_AnimBP.F_MED_Hostile_AnimBP_C",
+    "PartmodifierBlueprint": "",
+    "IdleEffectNiagara": "",
+	"HIDPath": "FortniteGame/Plugins/GameFeatures/BRCosmetics/Content/Athena/Heroes/HID_753_Athena_Commando_F_Hostile"
+  },
+  "Files": {
+    "pak": "https://github.com/EDsLA/Plugin/raw/main/plugin.pak",
+    "sig": "https://github.com/EDsLA/Plugin/raw/main/plugin.sig",
+    "ucas": "https://github.com/EDsLA/Plugin/raw/main/plugin.ucas",
+    "utoc": "https://github.com/EDsLA/Plugin/raw/main/plugin.utoc"
+  },
+  "Materials": [
+    "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Hostile/Materials/F_MED_Hostile_Body.F_MED_Hostile_Body",
+    "/BRCosmetics/Characters/Player/Female/Medium/Heads/F_MED_CAU_Durrburger_PJ_Head_01/Skin/Hostile/Materials/F_MED_Hostile_Head.F_MED_Hostile_Head",
+	"/BRCosmetics/Characters/Player/Female/Medium/Bodies/F_MED_Hostile/Materials/F_MED_Hostile_Hair.F_MED_Hostile_Hair",
+	"/BRCosmetics/Characters/Player/Female/Medium/Bodies/F_MED_Hostile/Materials/F_MED_Hostile_FaceAcc.F_MED_Hostile_FaceAcc",
+	"/BRCosmetics/Characters/Player/Female/Medium/Bodies/F_MED_Hostile/Materials/F_MED_Hostile_FaceAcc_Glass.F_MED_Hostile_FaceAcc_Glass"
+  ]
+}
