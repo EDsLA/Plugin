@@ -4,7 +4,7 @@
   "Name": "PJ",
   "Description": "By EDxLA",
   "Rarity": "Rare",
-  "Icon": "https://fortnite-api.com/images/cosmetics/br/cid_753_athena_commando_f_hostile/icon.png",
+  "Icon": "https://fortnite-api.com/images/cosmetics/br/character_waywardrebel/icon.png",
   "Skin": {
     "Mesh": "/Characters/PJ/PJ.PJ",
     "Skeleton": "/Game/Characters/Player/Female/Medium/Base/SK_M_Female_Base_Skeleton.SK_M_Female_Base_Skeleton",
